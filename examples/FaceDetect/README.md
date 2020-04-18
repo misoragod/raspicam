@@ -1,6 +1,6 @@
 ## Install
-$ cd raspicam/examples/FaceDetect
-$ mkdir build 
-$ cd build 
-$ cmake ..
-$ make 
+$ cd raspicam/examples/FaceDetect   
+$ mkdir build  
+$ cd build  
+$ cmake ..  
+$ make   
