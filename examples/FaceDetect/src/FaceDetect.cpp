@@ -5,7 +5,7 @@
 #include "VariousDisplay.h"
 
 int main(){
-    const cv::String windowName = "RESULT_IMG";
+    const cv::String windowName = "FACE DETECT";
     int width=480, height=320;
 
     cv::Mat srcImg, dstImg, grayImg;
